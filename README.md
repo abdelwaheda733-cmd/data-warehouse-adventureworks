@@ -1,3 +1,4 @@
+
 This is an excellent explanation of a complete end-to-end Data Engineering process. Translating this into professional technical English will significantly enhance your GitHub repository and LinkedIn profile, especially since you are targeting Data Analyst and Data Engineer roles.  
 +2
 
@@ -65,8 +66,10 @@ ETL Tool: SQL Server Integration Services (SSIS)
 
 Modeling: Dimensional Modeling (Star Schema)
 
+<img width="1920" height="1080" alt="c1" src="https://github.com/user-attachments/assets/208871f3-0d4d-4b10-919f-4c3c63043698" />
+<img width="1920" height="1080" alt="c2" src="https://github.com/user-attachments/assets/b26a59b2-6af0-46cf-a99e-994aac43b0f3" />
 
-
+<img width="1920" height="1080" alt="s3" src="https://github.com/user-attachments/assets/8a602989-d6b9-4ff6-a519-4bcab591fb77" />
 
 
 
